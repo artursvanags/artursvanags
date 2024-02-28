@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Lets start a project!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating innovative solutions since turning tech problems into triumphs!<br>📚 I'm currently learning the intricate web of event loops and system memory distribution.<br>🎯 Goals: Shifting gears towards web development & software engineering, while soaking up wisdom from seasoned pros in a flat organizational setup.<br>🎲 Fun fact: I once won a sympathy award at the World Entrepreneurship Cup 2022.</p>
+<p align="left">✨ Creating innovative solutions since turning tech problems into triumphs!<br>📚 I'm currently learning the intricate web of server actions and making NextJS my daily driver in full-stack world.<br>🎯 Goals: Shifting gears towards web development & software engineering, while soaking up wisdom from seasoned pros in a flat organizational setup.<br>🎲 Fun fact: I once won a sympathy award at the World Entrepreneurship Cup 2022.</p>
 
 ###
 
